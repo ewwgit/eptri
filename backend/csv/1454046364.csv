@@ -1,0 +1,28 @@
+productCode,productName,categoryId,brandId,description,productImage,status
+BSMR,rice,2,1,sdfsdf,uploads/products/65667Desert.jpg,Active
+WHTR,test,1,1,sdfsdf,uploads/products/90565Desert.jpg,Active
+theh,ksdjflsdj,2,1,sdfsdf,uploads/products/65770MaitriHoarding2.jpg,Active
+BSMR,rice,2,1,sdfsdf,uploads/products/65667Desert.jpg,
+WHTR,test,1,1,sdfsdf,uploads/products/90565Desert.jpg,
+theh,ksdjflsdj,2,1,sdfsdf,uploads/products/65770MaitriHoarding2.jpg,
+BSMR,rice,2,1,sdfsdf,uploads/products/65667Desert.jpg,
+WHTR,test,1,1,sdfsdf,uploads/products/90565Desert.jpg,
+theh,ksdjflsdj,2,1,sdfsdf,uploads/products/65770MaitriHoarding2.jpg,
+BSMR,rice,2,1,sdfsdf,C:\Users\Public\Pictures\Sample Pictures\Desert.jpg,Active
+WHTR,test,1,1,sdfsdf,C:\Users\Public\Pictures\Sample Pictures\Hydrangeas.jpg,Active
+theh,ksdjflsdj,2,1,sdfsdf,C:\Users\Public\Pictures\Sample Pictures\Jellyfish.jpg,Active
+BSMR,rice,2,1,sdfsdf,uploads/products/1451294128Desert.jpg,Active
+WHTR,test,1,1,sdfsdf,uploads/products/1451294128Hydrangeas.jpg,Active
+p2,product2,1,1,sdfsdf,uploads/products/145266830190565Desert.jpg,Active
+p3,product3,2,1,sdfsdf,uploads/products/145266830165770MaitriHoarding2.jpg,Active
+p4,product4,2,1,sdfsdf,uploads/products/145266830165667Desert.jpg,Active
+p5,product5,1,1,sdfsdf,uploads/products/145266830290565Desert.jpg,Active
+p6,product6,2,1,sdfsdf,uploads/products/145266830265770MaitriHoarding2.jpg,Active
+p7,product7,2,1,sdfsdf,uploads/products/145266830265667Desert.jpg,Active
+p8,product8,1,1,sdfsdf,uploads/products/145266830290565Desert.jpg,Active
+p9,product9,2,1,sdfsdf,uploads/products/145266830265770MaitriHoarding2.jpg,Active
+p10,product10,2,1,sdfsdf,uploads/products/145266830265667Desert.jpg,Active
+p11,product11,1,1,sdfsdf,uploads/products/145266830265667Desert.jpg,Active
+p12,product12,2,1,sdfsdf,uploads/products/145266830265667Desert.jpg,Active
+p13,product13,2,1,sdfsdf,uploads/products/14526683021451294128Desert.jpg,Active
+p14,product14,1,1,sdfsdf,uploads/products/14526683021451294128Hydrangeas.jpg,Active

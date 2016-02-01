@@ -1,0 +1,13 @@
+productId,Brand,Quantity,uom,AltQty,AltUom,UnitPrice,SalePrice,PriceUnit,startDate,endDate,ReserveCount,SaleInd,categoryName
+sdfsd,dsfs,dsf,dsf,sdf,sdf,dsf,dsf,dsf,2016-01-20,2016-01-30,sdf,dsf,f
+SOMA,laxmi,w1,20lb,1 Bag,5 Bag,14.99,11,11.99USD,2016-01-20,2016-01-30,29,,rice
+ATTA,ashirwad,w1,30lb,1 Bag,5 Bag,10.899,,7.99USD,2016-01-20,2016-01-30,15,,drinks
+TDAL,moya,w1,5lb,1 Bag,5 Bag,56.99,,8.99USD,2016-01-20,2016-01-30,5,,dall
+SOMA,laxmi,w1,6lb,1 Bag,5 Bag,69.99,,Usd,2016-01-20,2016-01-30,6,,oil
+ATTA,ashirward,w1,7lb,1 Bag,5 Bag,45.99,,Usd,2016-01-20,2016-01-30,14,,rice
+TDAL,moya,w1,8lb,1 Bag,5 Bag,67.99,,Usd,2016-01-20,2016-01-30,34,,dall
+SOMA,laxmi,w1,7lb,1 Bag,5 Bag,76.99,,Usd,2016-01-20,2016-01-30,14,,oil
+ATTA,ashirward,w1,3lb,1 Bag,5 Bag,5.99,,Usd,2016-01-20,2016-01-30,15,,rice
+TDAL,moya,w1,4lb,1 Bag,5 Bag,2.99,,Usd,2016-01-20,2016-01-30,16,,dall
+SOMA,laxmi,w1,2lb,1 Bag,5 Bag,67.99,,Usd,2016-01-20,2016-01-30,10,,oil
+ATTA,ashirwarsd,w1,6lb,1 Bag,5 Bag,34.99,,Usd,2016-01-20,2016-01-30,8,,rice

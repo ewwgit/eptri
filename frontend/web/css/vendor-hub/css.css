@@ -1,0 +1,156 @@
+.webfont-price-container.webfont-price .price-container .price-currency-before {
+	_vertical-align: bottom;
+	bottom: 1.625ex;
+	font-size: 45%;
+	height: 0;
+	line-height: 1;
+	position: relative;
+	vertical-align: baseline;
+}
+.webfont-price-container.webfont-price .price-container .price-text-before-inline+.price-currency-before {
+	margin-left: -1ex;
+}
+.webfont-price-container.webfont-price .price-container .price-before-separator {
+	display: inline-block;
+}
+.webfont-price-container.webfont-price .price-container.price-should-be-supped .price-separator {
+	bottom: auto;
+	left: auto;
+	position: absolute;
+	right: 113px;
+	top: 50px;
+}
+.webfont-price-container.webfont-price .price-container .price-behind-separator.price-sup {
+	_vertical-align: bottom;
+	bottom: 25px;
+	font-size: 65%;
+	line-height: 1;
+	position: relative;
+	vertical-align: baseline;
+	left:-15px;
+	font-weight:bold;
+}
+.webfont-price-container.webfont-price .price-container>.price-text-before-inline {
+	display: inline-block;
+	font-size: 22%;
+	line-height: 1;
+	margin-right: 1ex;
+}
+.webfont-price .price-container.price-dot-separated>.price-text-before-inline {
+	margin-right: -1ex;
+}
+.webfont-price-container.webfont-price .price-container .price-text-above-inline {
+	display: block;
+	font-size: 22%;
+	line-height: 1;
+}
+.webfont-price-container.webfont-price .price-container .price-text-below-inline {
+	display: block;
+	font-size: 22%;
+	line-height: 1;
+}
+.webfont-price-container.webfont-price .price-container>.price-text-behind-inline {
+	_vertical-align: bottom;
+	border: none;
+	border-collapse: collapse;
+	display: inline-block;
+	font-size: 22%;
+	line-height: normal;
+	margin-left: 1ex;
+	position: relative;
+	text-align: left;
+	vertical-align: baseline;
+	left:-42px;
+}
+.webfont-price-container.webfont-price .price-text-tax-hint {
+	margin-left: .75ex;
+}
+.webfont-price-container.webfont-price>.price-text-tax-hint, .webfont-price-container.webfont-price .price-container>.price-text-behind-inline>.price-text-tax-hint {
+	display: block;
+	margin-left: 0;
+	padding-bottom: .875ex;
+}
+.webfont-price-container.webfont-price .price-container>.price-text-behind-inline.price-behind-separator-supped {
+	display: inline-table;
+	margin-left: -2.875ex;
+}
+.webfont-price-container.webfont-price.price-dot-separated .price-container>.price-text-before-inline.price-text-has-currency-before {
+	margin-right: -1ex;
+}
+.webfont-price-container.webfont-price .price-text-gratis {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+}
+.webfont-price-container.webfont-price .price-text-gratis+.price-text-asterisk {
+	font-size: 65%;
+	vertical-align: top;
+	position: relative;
+	top: .125ex;
+}
+.webfont-price-container.webfont-price .price-text-gratis+.price-text-asterisk-sup {
+	font-size: 40%;
+	line-height: 1;
+	vertical-align: top;
+	top: .5ex;
+	position: relative;
+}
+.webfont-price-container.webfont-price-text .webfont-price-highlight {
+	font-weight: bold;
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright {
+	color: #003D8F;
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright .price-text-below .webfont-price-highlight {
+	color: #99b6d5;
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright .webfont-price-highlight .price-text-before-inline, .webfont-price-container.webfont-price.webfont-price-context-bright .webfont-price-highlight .price-text-behind-inline {
+	color: #003D8F;
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright hr.price-text-stroke {
+	background: #003D8F;
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright>.price-container hr.price-text-stroke {
+	background: #99b6d5;
+	
+}
+.webfont-price-container.webfont-price.webfont-price-context-bright .price-container-stroke-inline {
+	color: #99B6D5;
+}
+.webfont-price-container.webfont-price.webfont-price-context-dark {
+	color: #fff;
+}
+.webfont-price-container.webfont-price.webfont-price-context-dark .webfont-price-highlight {
+	color: #fff000;
+}
+
+.webfont-price-container.webfont-price.webfont-price-context-dark>.price-container.webfont-price-highlight .price-text-behind-inline {
+	color: #fff000;
+}
+.webfont-price-container.webfont-price.webfont-price-context-dark hr.price-text-stroke {
+	background: #f3e11e;
+}
+.webfont-price-container.webfont-price.webfont-price-context-dark .price-container-stroke-inline {
+	color: #99B6D5;
+}
+.webfont-price-container.webfont-price.webfont-price-context-size-l {
+	font-size: 13px;
+}
+.webfont-price-container.webfont-price.webfont-price-context-size-l>.price-container {
+	font-size: 55px;
+	font-family: segoe ui;
+}
+.webfont-price-container.webfont-price.price-comma-separated.webfont-price-context-size-l>.price-container {
+	line-height: 65px;
+}
+.webfont-price-container.webfont-price.webfont-price-context-size-l>.price-container.price-container-overridden {
+	font-size: 42px;
+	line-height: 60px;
+}
+.webfont-price-container.webfont-price.webfont-price-context-size-l>.price-text-below>.price-container.webfont-price-highlight {
+	font-size: 30px;
+}
+
+
+
+
+
